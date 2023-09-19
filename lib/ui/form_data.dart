@@ -13,7 +13,7 @@ class _FormDataState extends State<FormData> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Input Data"),
+        title: Text("Input"),
       ),
     );
   }
