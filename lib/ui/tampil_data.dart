@@ -18,7 +18,7 @@ class TampilData extends StatelessWidget { //contoh data yang di-passing
         margin: EdgeInsets.all(10),
         child: Column(
           children: [
-            Text("Nama saya $nama, dengan NIM $nim dan berusia $usia"),
+            Text("Nama saya $nama, NIM $nim, dan umur saya adalah $usia tahun"),
           ],
         ),
       )
