@@ -49,7 +49,7 @@ class _FormDataState extends State<FormData> {
 
   _textboxTahunLahir() {
     return TextField(
-      decoration: const InputDecoration(labelText: "Tahu_textboxtahunLahir"),
+      decoration: const InputDecoration(labelText: "Tahun lahir"),
       controller: _tahunLahirController,
     );
   }
